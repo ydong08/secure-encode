@@ -1,0 +1,310 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\intrusiondetectionsystem.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 229, 123
+STYLE WS_POPUP | WS_BORDER
+FONT 10, "宋体"
+BEGIN
+    CONTROL         261,IDC_STATIC,"Static",SS_BITMAP,0,0,229,123
+END
+
+IDD_ProtocolAnalysis_DIALOG DIALOGEX 0, 0, 478, 379
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "网络入侵检测系统《网络安全编程技术与实例》（作者：刘文涛）"
+MENU IDR_MENU1
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    CONTROL         "Tab1",IDC_TAB1,"SysTabControl32",0x0,313,170,130,41
+    PUSHBUTTON      "参数选项",IDC_BUTTON_PARAMETER,152,1,38,16,BS_FLAT
+    PUSHBUTTON      "过滤规则",IDC_BUTTON_SET_FILTER,114,1,38,16,BS_FLAT
+    PUSHBUTTON      "打开文件",IDC_BUTTON_OPEN_DUMP_FILE,76,1,38,16,BS_FLAT
+    PUSHBUTTON      "停止",IDC_BUTTON_END,38,1,38,16,BS_FLAT
+    PUSHBUTTON      "开始",IDC_BUTTON_START,0,1,38,16,BS_FLAT
+    PUSHBUTTON      "隐藏",IDC_BUTTON_HIDE,190,1,38,16,BS_FLAT
+    PUSHBUTTON      "关于",IDC_BUTTON_ABOUT,228,1,38,16,BS_FLAT
+    PUSHBUTTON      "离 开",IDC_CENTER,266,1,38,16,BS_FLAT
+    CONTROL         "List2",IDC_LIST_INFORMATION,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,23,100,129,50
+    CONTROL         "List3",IDC_LIST_ARP,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,163,166,129,50
+    CONTROL         "List4",IDC_LIST_IP,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,163,103,129,50
+    CONTROL         "List5",IDC_LIST_TCP,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,310,40,129,50
+    CONTROL         "List6",IDC_LIST_UDP,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,24,162,129,50
+    CONTROL         "List7",IDC_LIST_ICMP,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,163,39,129,50
+    LTEXT           "数据包信息",IDC_STATIC_STATUS,419,7,54,10,
+                    SS_CENTERIMAGE
+    CONTROL         "List4",IDC_LIST_ETHERNET,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,315,104,129,50
+    LTEXT           "数据包个数",IDC_STATIC_PACKET_COUNT,325,7,74,8
+    CONTROL         "List1",IDC_LIST_INTRUSION,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,24,38,129,50
+END
+
+IDD_DIALOG_F1 DIALOG DISCARDABLE  0, 0, 202, 99
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于此软件"
+FONT 10, "宋体"
+BEGIN
+    PUSHBUTTON      "确定",IDOK,147,7,41,16
+    LTEXT           "网络入侵检测系统实例",IDC_STATIC,41,17,99,21
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,15,20,20
+    LTEXT           "作者：刘文涛  版权所有 @2008",IDC_ZUOZHE,8,62,131,8
+    LTEXT           "书籍：《网络安全编程技术与与实例》 （第6章实例）",
+                    IDC_STATIC,7,49,179,8
+END
+
+IDD_FILTER_DLG DIALOGEX 0, 0, 195, 118
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "设置过滤规则"
+FONT 10, "宋体", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,26,95,55,16
+    PUSHBUTTON      "取消",IDCANCEL,115,95,55,16
+    EDITTEXT        IDC_EDIT_FILTER,15,43,165,30,ES_AUTOHSCROLL,
+                    WS_EX_CLIENTEDGE
+    LTEXT           "（如 ip dst  192.168.0.1）",IDC_STATIC,15,31,159,8
+    GROUPBOX        "输入过滤规则",IDC_STATIC,7,17,181,61
+END
+
+IDD_DIALOG_DEVICE DIALOG DISCARDABLE  0, 0, 325, 122
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络接口"
+FONT 10, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,76,101,50,14
+    PUSHBUTTON      "取消",IDCANCEL,173,101,50,14
+    LISTBOX         IDC_LIST_DEVICE,19,22,256,56,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_HSCROLL | 
+                    WS_TABSTOP
+    GROUPBOX        "请选择网络接口",IDC_STATIC,7,7,311,81,BS_LEFT | BS_FLAT
+END
+
+IDD_DIALOG_PARAMETER DIALOG DISCARDABLE  0, 0, 287, 119
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "参数选项"
+FONT 10, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,69,98,50,14
+    PUSHBUTTON      "取消",IDCANCEL,173,98,50,14
+    GROUPBOX        "选项",IDC_STATIC_XUANXIANG,7,7,273,80
+    CONTROL         "保存到文件",IDC_CHECK_SAVE_DUMP_FILE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,45,27,61,8
+    CONTROL         "时实显示网络数据",IDC_CHECK_SHOW_PACKET_DATA,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,142,30,97,8
+    CONTROL         "入侵检测",IDC_CHECK_INTRUSION_DETECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,47,56,74,10
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "网络入侵检测系统《网络安全编程技术与实例》（作者：刘文涛）\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "IDS《网络安全编程技术与实例》（作者：刘文涛）\0"
+            VALUE "LegalCopyright", "作者:刘文涛《网络安全编程技术与实例》（作者：刘文涛）\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "IDS.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "网络入侵检测系统《网络安全编程技术与实例》（作者：刘文涛）\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "文     件   "
+    BEGIN
+        MENUITEM "打开文件",                    ID_MENU_OPEN_DUMP_FILE
+        MENUITEM "退出系统",                    MENU_EXIT
+    END
+    POPUP "操     作   "
+    BEGIN
+        MENUITEM "开始",                        MENU_START
+        MENUITEM "停止",                        MENU_STOP
+    END
+    POPUP "系统配置    "
+    BEGIN
+        MENUITEM "设置过滤规则",                MENU_SET_FILETER
+        MENUITEM "参数选项",                    ID_MENU_SET_PARAMETER
+    END
+    POPUP "协议分析 "
+    BEGIN
+        MENUITEM "ARP协议",                     ID_MENU_ARP
+        MENUITEM "IP协议",                      ID_MENU_IP
+        MENUITEM "TCP协议",                     ID_MENU_TCP
+        MENUITEM "UDP协议",                     ID_MENU_UDP
+        MENUITEM "ICMP协议",                    ID_MENU_ICMP
+        MENUITEM "Ethernet协议",                ID_MENU_ETHERNET
+    END
+    POPUP "入侵检测"
+    BEGIN
+        MENUITEM "数据包信息",                  ID_MENU_PACKET
+        MENUITEM "入侵检测信息",                ID_MENU_INTRUSION
+    END
+    POPUP "帮     助  "
+    BEGIN
+        MENUITEM "帮助",                        ID_MENU_HELP
+        MENUITEM "关于",                        MENU_HELP
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP3             BITMAP  DISCARDABLE     "res\\about.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\icon8.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 网络入侵检测系统《网络安全编程技术与实例》（作者：刘文涛）(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\intrusiondetectionsystem.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

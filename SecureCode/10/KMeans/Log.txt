@@ -1,0 +1,4192 @@
+Start K-means clustering proccess ...
+********** Creat a new Kmeans, ID = 1 **********
+--------------------------------------
+Read training file successfully !
+Init K-value =5
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+----------- Cirle 20 ------------
+----------- Cirle 21 ------------
+----------- Cirle 22 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level1 **************
+------------- Kmeans1 Cluster0 -------------
+normal = 3
+dos = 0
+probe = 0
+u2r = 0
+r2l = 15
+------------- Kmeans1 Cluster1 -------------
+normal = 0
+dos = 0
+probe = 1
+u2r = 0
+r2l = 0
+------------- Kmeans1 Cluster2 -------------
+normal = 26
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans1 Cluster3 -------------
+normal = 22
+dos = 0
+probe = 0
+u2r = 0
+r2l = 60
+------------- Kmeans1 Cluster4 -------------
+normal = 97227
+dos = 391458
+probe = 4106
+u2r = 52
+r2l = 1049
+*******************************************
+Check Kmeans1 Cluster0
+0.2 > 0.1
+Level1 Kmeans1 Cluster0 need go on !
+------------------------------
+normal = 3
+dos = 0
+probe = 0
+u2r = 0
+r2l = 15
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 2 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level2 **************
+------------- Kmeans2 Cluster0 -------------
+normal = 1
+dos = 0
+probe = 0
+u2r = 0
+r2l = 15
+------------- Kmeans2 Cluster1 -------------
+normal = 2
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans2 Cluster0
+0 <= 0.0666667 < 0.1
+Level2 Kmeans2 Cluster0 OK !
+------------------------------
+Check Kmeans2 Cluster1
+0 <= 0 < 0.1
+Level2 Kmeans2 Cluster1 OK !
+------------------------------
+Check Kmeans1 Cluster1
+0 <= 0 < 0.1
+Level1 Kmeans1 Cluster1 OK !
+------------------------------
+Check Kmeans1 Cluster2
+0 <= 0.0769231 < 0.1
+Level1 Kmeans1 Cluster2 OK !
+------------------------------
+Check Kmeans1 Cluster3
+0.366667 > 0.1
+Level1 Kmeans1 Cluster3 need go on !
+------------------------------
+normal = 22
+dos = 0
+probe = 0
+u2r = 0
+r2l = 60
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 3 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level2 **************
+------------- Kmeans3 Cluster0 -------------
+normal = 22
+dos = 0
+probe = 0
+u2r = 0
+r2l = 1
+------------- Kmeans3 Cluster1 -------------
+normal = 0
+dos = 0
+probe = 0
+u2r = 0
+r2l = 59
+*******************************************
+Check Kmeans3 Cluster0
+0 <= 0.0454545 < 0.1
+Level2 Kmeans3 Cluster0 OK !
+------------------------------
+Check Kmeans3 Cluster1
+0 <= 0 < 0.1
+Level2 Kmeans3 Cluster1 OK !
+------------------------------
+Check Kmeans1 Cluster4
+102434 > 100
+Level1 Kmeans1 Cluster4 need go on !
+------------------------------
+normal = 97227
+dos = 391458
+probe = 4106
+u2r = 52
+r2l = 1049
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 4 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+----------- Cirle 20 ------------
+----------- Cirle 21 ------------
+----------- Cirle 22 ------------
+----------- Cirle 23 ------------
+----------- Cirle 24 ------------
+----------- Cirle 25 ------------
+----------- Cirle 26 ------------
+----------- Cirle 27 ------------
+----------- Cirle 28 ------------
+----------- Cirle 29 ------------
+----------- Cirle 30 ------------
+----------- Cirle 31 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level2 **************
+------------- Kmeans4 Cluster0 -------------
+normal = 72
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans4 Cluster1 -------------
+normal = 152
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans4 Cluster2 -------------
+normal = 3667
+dos = 0
+probe = 0
+u2r = 3
+r2l = 2
+------------- Kmeans4 Cluster3 -------------
+normal = 10894
+dos = 281068
+probe = 1
+u2r = 0
+r2l = 67
+------------- Kmeans4 Cluster4 -------------
+normal = 82442
+dos = 108201
+probe = 4105
+u2r = 49
+r2l = 978
+*******************************************
+Check Kmeans4 Cluster0
+0 <= 0.0277778 < 0.1
+Level2 Kmeans4 Cluster0 OK !
+------------------------------
+Check Kmeans4 Cluster1
+152 > 100
+Level2 Kmeans4 Cluster1 need go on !
+------------------------------
+normal = 152
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 5 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level3 **************
+------------- Kmeans5 Cluster0 -------------
+normal = 9
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans5 Cluster1 -------------
+normal = 143
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans5 Cluster0
+0 <= 0 < 0.1
+Level3 Kmeans5 Cluster0 OK !
+------------------------------
+Check Kmeans5 Cluster1
+143 > 100
+Level3 Kmeans5 Cluster1 need go on !
+------------------------------
+normal = 143
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 6 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level4 **************
+------------- Kmeans6 Cluster0 -------------
+normal = 21
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans6 Cluster1 -------------
+normal = 122
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans6 Cluster0
+0 <= 0 < 0.1
+Level4 Kmeans6 Cluster0 OK !
+------------------------------
+Check Kmeans6 Cluster1
+0 <= 0.0557332 < 0.1
+Level4 Kmeans6 Cluster1 OK !
+------------------------------
+Check Kmeans4 Cluster2
+0 <= 0.00136351 < 0.1
+Level2 Kmeans4 Cluster2 OK !
+------------------------------
+Check Kmeans4 Cluster3
+10962 > 100
+Level2 Kmeans4 Cluster3 need go on !
+------------------------------
+normal = 10894
+dos = 281068
+probe = 1
+u2r = 0
+r2l = 67
+------------------------------
+Set K = 4
+********** Creat a new Kmeans, ID = 7 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+----------- Cirle 20 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level3 **************
+------------- Kmeans7 Cluster0 -------------
+normal = 587
+dos = 14
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans7 Cluster1 -------------
+normal = 658
+dos = 280694
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans7 Cluster2 -------------
+normal = 8698
+dos = 360
+probe = 1
+u2r = 0
+r2l = 33
+------------- Kmeans7 Cluster3 -------------
+normal = 951
+dos = 0
+probe = 0
+u2r = 0
+r2l = 32
+*******************************************
+Check Kmeans7 Cluster0
+0 <= 0.0238501 < 0.1
+Level3 Kmeans7 Cluster0 OK !
+------------------------------
+Check Kmeans7 Cluster1
+660 > 100
+Level3 Kmeans7 Cluster1 need go on !
+------------------------------
+normal = 658
+dos = 280694
+probe = 0
+u2r = 0
+r2l = 2
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 8 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level4 **************
+------------- Kmeans8 Cluster0 -------------
+normal = 0
+dos = 227841
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans8 Cluster1 -------------
+normal = 630
+dos = 104
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans8 Cluster2 -------------
+normal = 28
+dos = 52749
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans8 Cluster0
+0 <= 0 < 0.1
+Level4 Kmeans8 Cluster0 OK !
+------------------------------
+Check Kmeans8 Cluster1
+0.168254 > 0.1
+Level4 Kmeans8 Cluster1 need go on !
+------------------------------
+normal = 630
+dos = 104
+probe = 0
+u2r = 0
+r2l = 2
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 9 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level5 **************
+------------- Kmeans9 Cluster0 -------------
+normal = 1
+dos = 75
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans9 Cluster1 -------------
+normal = 610
+dos = 5
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans9 Cluster2 -------------
+normal = 19
+dos = 24
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans9 Cluster0
+0 <= 0.0133333 < 0.1
+Level5 Kmeans9 Cluster0 OK !
+------------------------------
+Check Kmeans9 Cluster1
+0 <= 0.0114754 < 0.1
+Level5 Kmeans9 Cluster1 OK !
+------------------------------
+Check Kmeans9 Cluster2
+0.791667 > 0.2
+Level5 Kmeans9 Cluster2 need go on !
+------------------------------
+normal = 19
+dos = 24
+probe = 0
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+0 < Max Label <=200 and Result = 0.791667 > 0.5
+********** Creat a new Kmeans, ID = 10 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level6 **************
+------------- Kmeans10 Cluster0 -------------
+normal = 12
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans10 Cluster1 -------------
+normal = 7
+dos = 24
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans10 Cluster0
+0 <= 0 < 0.1
+Level6 Kmeans10 Cluster0 OK !
+------------------------------
+Check Kmeans10 Cluster1
+0.2 <= 0.291667 < 0.3
+Level6 Kmeans10 Cluster1 OK !
+------------------------------
+Check Kmeans8 Cluster2
+0 <= 0.000530816 < 0.1
+Level4 Kmeans8 Cluster2 OK !
+------------------------------
+Check Kmeans7 Cluster2
+394 > 100
+Level3 Kmeans7 Cluster2 need go on !
+------------------------------
+normal = 8698
+dos = 360
+probe = 1
+u2r = 0
+r2l = 33
+------------------------------
+Set K = 4
+********** Creat a new Kmeans, ID = 11 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+----------- Cirle 20 ------------
+----------- Cirle 21 ------------
+----------- Cirle 22 ------------
+----------- Cirle 23 ------------
+----------- Cirle 24 ------------
+----------- Cirle 25 ------------
+----------- Cirle 26 ------------
+----------- Cirle 27 ------------
+----------- Cirle 28 ------------
+----------- Cirle 29 ------------
+----------- Cirle 30 ------------
+----------- Cirle 31 ------------
+----------- Cirle 32 ------------
+----------- Cirle 33 ------------
+----------- Cirle 34 ------------
+----------- Cirle 35 ------------
+----------- Cirle 36 ------------
+----------- Cirle 37 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level4 **************
+------------- Kmeans11 Cluster0 -------------
+normal = 567
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans11 Cluster1 -------------
+normal = 2829
+dos = 259
+probe = 1
+u2r = 0
+r2l = 1
+------------- Kmeans11 Cluster2 -------------
+normal = 4052
+dos = 101
+probe = 0
+u2r = 0
+r2l = 32
+------------- Kmeans11 Cluster3 -------------
+normal = 1250
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans11 Cluster0
+0 <= 0 < 0.1
+Level4 Kmeans11 Cluster0 OK !
+------------------------------
+Check Kmeans11 Cluster1
+0 <= 0.0922588 < 0.1
+Level4 Kmeans11 Cluster1 OK !
+------------------------------
+Check Kmeans11 Cluster2
+0 <= 0.0328233 < 0.1
+Level4 Kmeans11 Cluster2 OK !
+------------------------------
+Check Kmeans11 Cluster3
+0 <= 0 < 0.1
+Level4 Kmeans11 Cluster3 OK !
+------------------------------
+Check Kmeans7 Cluster3
+0 <= 0.0336488 < 0.1
+Level3 Kmeans7 Cluster3 OK !
+------------------------------
+Check Kmeans4 Cluster4
+87574 > 100
+Level2 Kmeans4 Cluster4 need go on !
+------------------------------
+normal = 82442
+dos = 108201
+probe = 4105
+u2r = 49
+r2l = 978
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 12 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+----------- Cirle 20 ------------
+----------- Cirle 21 ------------
+----------- Cirle 22 ------------
+----------- Cirle 23 ------------
+----------- Cirle 24 ------------
+----------- Cirle 25 ------------
+----------- Cirle 26 ------------
+----------- Cirle 27 ------------
+----------- Cirle 28 ------------
+----------- Cirle 29 ------------
+----------- Cirle 30 ------------
+----------- Cirle 31 ------------
+----------- Cirle 32 ------------
+----------- Cirle 33 ------------
+----------- Cirle 34 ------------
+----------- Cirle 35 ------------
+----------- Cirle 36 ------------
+----------- Cirle 37 ------------
+----------- Cirle 38 ------------
+----------- Cirle 39 ------------
+----------- Cirle 40 ------------
+----------- Cirle 41 ------------
+----------- Cirle 42 ------------
+----------- Cirle 43 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level3 **************
+------------- Kmeans12 Cluster0 -------------
+normal = 3555
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+------------- Kmeans12 Cluster1 -------------
+normal = 5322
+dos = 0
+probe = 0
+u2r = 9
+r2l = 5
+------------- Kmeans12 Cluster2 -------------
+normal = 20183
+dos = 0
+probe = 0
+u2r = 10
+r2l = 36
+------------- Kmeans12 Cluster3 -------------
+normal = 9724
+dos = 0
+probe = 0
+u2r = 21
+r2l = 277
+------------- Kmeans12 Cluster4 -------------
+normal = 43658
+dos = 108201
+probe = 4105
+u2r = 9
+r2l = 658
+*******************************************
+Check Kmeans12 Cluster0
+0 <= 0.000562588 < 0.1
+Level3 Kmeans12 Cluster0 OK !
+------------------------------
+Check Kmeans12 Cluster1
+0 <= 0.00263059 < 0.1
+Level3 Kmeans12 Cluster1 OK !
+------------------------------
+Check Kmeans12 Cluster2
+0 <= 0.00227915 < 0.1
+Level3 Kmeans12 Cluster2 OK !
+------------------------------
+Check Kmeans12 Cluster3
+298 > 100
+Level3 Kmeans12 Cluster3 need go on !
+------------------------------
+normal = 9724
+dos = 0
+probe = 0
+u2r = 21
+r2l = 277
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 13 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level4 **************
+------------- Kmeans13 Cluster0 -------------
+normal = 3465
+dos = 0
+probe = 0
+u2r = 5
+r2l = 0
+------------- Kmeans13 Cluster1 -------------
+normal = 79
+dos = 0
+probe = 0
+u2r = 15
+r2l = 276
+------------- Kmeans13 Cluster2 -------------
+normal = 6180
+dos = 0
+probe = 0
+u2r = 1
+r2l = 1
+*******************************************
+Check Kmeans13 Cluster0
+0 <= 0.001443 < 0.1
+Level4 Kmeans13 Cluster0 OK !
+------------------------------
+Check Kmeans13 Cluster1
+0.34058 > 0.1
+Level4 Kmeans13 Cluster1 need go on !
+------------------------------
+normal = 79
+dos = 0
+probe = 0
+u2r = 15
+r2l = 276
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 14 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level5 **************
+------------- Kmeans14 Cluster0 -------------
+normal = 2
+dos = 0
+probe = 0
+u2r = 7
+r2l = 0
+------------- Kmeans14 Cluster1 -------------
+normal = 60
+dos = 0
+probe = 0
+u2r = 4
+r2l = 0
+------------- Kmeans14 Cluster2 -------------
+normal = 17
+dos = 0
+probe = 0
+u2r = 4
+r2l = 276
+*******************************************
+Check Kmeans14 Cluster0
+0.285714 > 0.2
+Level5 Kmeans14 Cluster0 need go on !
+------------------------------
+normal = 2
+dos = 0
+probe = 0
+u2r = 7
+r2l = 0
+------------------------------
+Set K = 2
+------------------------------
+Stop Recursion! Go back !
+Check Kmeans14 Cluster1
+0 <= 0.0666667 < 0.1
+Level5 Kmeans14 Cluster1 OK !
+------------------------------
+Check Kmeans14 Cluster2
+0 <= 0.076087 < 0.1
+Level5 Kmeans14 Cluster2 OK !
+------------------------------
+Check Kmeans13 Cluster2
+0 <= 0.000323625 < 0.1
+Level4 Kmeans13 Cluster2 OK !
+------------------------------
+Check Kmeans12 Cluster4
+48430 > 100
+Level3 Kmeans12 Cluster4 need go on !
+------------------------------
+normal = 43658
+dos = 108201
+probe = 4105
+u2r = 9
+r2l = 658
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 15 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level4 **************
+------------- Kmeans15 Cluster0 -------------
+normal = 6704
+dos = 0
+probe = 0
+u2r = 3
+r2l = 0
+------------- Kmeans15 Cluster1 -------------
+normal = 16
+dos = 86646
+probe = 51
+u2r = 0
+r2l = 0
+------------- Kmeans15 Cluster2 -------------
+normal = 9125
+dos = 0
+probe = 0
+u2r = 1
+r2l = 3
+------------- Kmeans15 Cluster3 -------------
+normal = 26
+dos = 20478
+probe = 1484
+u2r = 0
+r2l = 0
+------------- Kmeans15 Cluster4 -------------
+normal = 27787
+dos = 1077
+probe = 2570
+u2r = 5
+r2l = 655
+*******************************************
+Check Kmeans15 Cluster0
+0 <= 0.000447494 < 0.1
+Level4 Kmeans15 Cluster0 OK !
+------------------------------
+Check Kmeans15 Cluster1
+0 <= 0.000773261 < 0.1
+Level4 Kmeans15 Cluster1 OK !
+------------------------------
+Check Kmeans15 Cluster2
+0 <= 0.000438356 < 0.1
+Level4 Kmeans15 Cluster2 OK !
+------------------------------
+Check Kmeans15 Cluster3
+1510 > 500
+Level4 Kmeans15 Cluster3 need go on !
+------------------------------
+normal = 26
+dos = 20478
+probe = 1484
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 16 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level5 **************
+------------- Kmeans16 Cluster0 -------------
+normal = 0
+dos = 11681
+probe = 96
+u2r = 0
+r2l = 0
+------------- Kmeans16 Cluster1 -------------
+normal = 26
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans16 Cluster2 -------------
+normal = 0
+dos = 8797
+probe = 1388
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans16 Cluster0
+0 <= 0.00821847 < 0.1
+Level5 Kmeans16 Cluster0 OK !
+------------------------------
+Check Kmeans16 Cluster1
+0 <= 0 < 0.1
+Level5 Kmeans16 Cluster1 OK !
+------------------------------
+Check Kmeans16 Cluster2
+1388 > 500
+Level5 Kmeans16 Cluster2 need go on !
+------------------------------
+normal = 0
+dos = 8797
+probe = 1388
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 17 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level6 **************
+------------- Kmeans17 Cluster0 -------------
+normal = 0
+dos = 0
+probe = 1312
+u2r = 0
+r2l = 0
+------------- Kmeans17 Cluster1 -------------
+normal = 0
+dos = 8797
+probe = 76
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans17 Cluster0
+0 <= 0 < 0.1
+Level6 Kmeans17 Cluster0 OK !
+------------------------------
+Check Kmeans17 Cluster1
+0 <= 0.00863931 < 0.1
+Level6 Kmeans17 Cluster1 OK !
+------------------------------
+Check Kmeans15 Cluster4
+4307 > 500
+Level4 Kmeans15 Cluster4 need go on !
+------------------------------
+normal = 27787
+dos = 1077
+probe = 2570
+u2r = 5
+r2l = 655
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 18 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level5 **************
+------------- Kmeans18 Cluster0 -------------
+normal = 11613
+dos = 0
+probe = 6
+u2r = 0
+r2l = 0
+------------- Kmeans18 Cluster1 -------------
+normal = 4706
+dos = 21
+probe = 713
+u2r = 0
+r2l = 0
+------------- Kmeans18 Cluster2 -------------
+normal = 979
+dos = 0
+probe = 3
+u2r = 2
+r2l = 54
+------------- Kmeans18 Cluster3 -------------
+normal = 3692
+dos = 1056
+probe = 1832
+u2r = 3
+r2l = 20
+------------- Kmeans18 Cluster4 -------------
+normal = 6797
+dos = 0
+probe = 16
+u2r = 0
+r2l = 581
+*******************************************
+Check Kmeans18 Cluster0
+0 <= 0.000516662 < 0.1
+Level5 Kmeans18 Cluster0 OK !
+------------------------------
+Check Kmeans18 Cluster1
+734 > 500
+Level5 Kmeans18 Cluster1 need go on !
+------------------------------
+normal = 4706
+dos = 21
+probe = 713
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 19 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level6 **************
+------------- Kmeans19 Cluster0 -------------
+normal = 4473
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans19 Cluster1 -------------
+normal = 233
+dos = 0
+probe = 706
+u2r = 0
+r2l = 0
+------------- Kmeans19 Cluster2 -------------
+normal = 0
+dos = 21
+probe = 7
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans19 Cluster0
+0 <= 0 < 0.1
+Level6 Kmeans19 Cluster0 OK !
+------------------------------
+Check Kmeans19 Cluster1
+0.330028 > 0.3
+Level6 Kmeans19 Cluster1 need go on !
+------------------------------
+normal = 233
+dos = 0
+probe = 706
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 20 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level7 **************
+------------- Kmeans20 Cluster0 -------------
+normal = 0
+dos = 0
+probe = 631
+u2r = 0
+r2l = 0
+------------- Kmeans20 Cluster1 -------------
+normal = 233
+dos = 0
+probe = 75
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans20 Cluster0
+0 <= 0 < 0.1
+Level7 Kmeans20 Cluster0 OK !
+------------------------------
+Check Kmeans20 Cluster1
+0.3 <= 0.321888 < 0.4
+Level7 Kmeans20 Cluster1 OK !
+------------------------------
+Check Kmeans19 Cluster2
+0.333333 > 0.3
+Level6 Kmeans19 Cluster2 need go on !
+------------------------------
+normal = 0
+dos = 21
+probe = 7
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 2
+------------------------------
+Stop Recursion! Go back !
+Check Kmeans18 Cluster2
+0 <= 0.0602656 < 0.1
+Level5 Kmeans18 Cluster2 OK !
+------------------------------
+Check Kmeans18 Cluster3
+2911 > 500
+Level5 Kmeans18 Cluster3 need go on !
+------------------------------
+normal = 3692
+dos = 1056
+probe = 1832
+u2r = 3
+r2l = 20
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 21 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level6 **************
+------------- Kmeans21 Cluster0 -------------
+normal = 213
+dos = 573
+probe = 17
+u2r = 0
+r2l = 0
+------------- Kmeans21 Cluster1 -------------
+normal = 920
+dos = 0
+probe = 7
+u2r = 0
+r2l = 0
+------------- Kmeans21 Cluster2 -------------
+normal = 1
+dos = 0
+probe = 1105
+u2r = 0
+r2l = 0
+------------- Kmeans21 Cluster3 -------------
+normal = 889
+dos = 17
+probe = 556
+u2r = 2
+r2l = 18
+------------- Kmeans21 Cluster4 -------------
+normal = 1669
+dos = 466
+probe = 147
+u2r = 1
+r2l = 2
+*******************************************
+Check Kmeans21 Cluster0
+0.401396 > 0.3
+Level6 Kmeans21 Cluster0 need go on !
+------------------------------
+normal = 213
+dos = 573
+probe = 17
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 22 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level7 **************
+------------- Kmeans22 Cluster0 -------------
+normal = 206
+dos = 53
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans22 Cluster1 -------------
+normal = 7
+dos = 472
+probe = 4
+u2r = 0
+r2l = 0
+------------- Kmeans22 Cluster2 -------------
+normal = 0
+dos = 48
+probe = 13
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans22 Cluster0
+0.2 <= 0.257282 < 0.3
+Level7 Kmeans22 Cluster0 OK !
+------------------------------
+Check Kmeans22 Cluster1
+0 <= 0.0233051 < 0.1
+Level7 Kmeans22 Cluster1 OK !
+------------------------------
+Check Kmeans22 Cluster2
+0.2 <= 0.270833 < 0.3
+Level7 Kmeans22 Cluster2 OK !
+------------------------------
+Check Kmeans21 Cluster1
+0 <= 0.0076087 < 0.1
+Level6 Kmeans21 Cluster1 OK !
+------------------------------
+Check Kmeans21 Cluster2
+0 <= 0.000904977 < 0.1
+Level6 Kmeans21 Cluster2 OK !
+------------------------------
+Check Kmeans21 Cluster3
+593 > 500
+Level6 Kmeans21 Cluster3 need go on !
+------------------------------
+normal = 889
+dos = 17
+probe = 556
+u2r = 2
+r2l = 18
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 23 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level7 **************
+------------- Kmeans23 Cluster0 -------------
+normal = 198
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans23 Cluster1 -------------
+normal = 1
+dos = 9
+probe = 161
+u2r = 0
+r2l = 0
+------------- Kmeans23 Cluster2 -------------
+normal = 285
+dos = 0
+probe = 98
+u2r = 0
+r2l = 1
+------------- Kmeans23 Cluster3 -------------
+normal = 0
+dos = 0
+probe = 256
+u2r = 0
+r2l = 8
+------------- Kmeans23 Cluster4 -------------
+normal = 405
+dos = 8
+probe = 41
+u2r = 2
+r2l = 9
+*******************************************
+Check Kmeans23 Cluster0
+0 <= 0 < 0.1
+Level7 Kmeans23 Cluster0 OK !
+------------------------------
+Check Kmeans23 Cluster1
+0 <= 0.0621118 < 0.1
+Level7 Kmeans23 Cluster1 OK !
+------------------------------
+Check Kmeans23 Cluster2
+0.3 <= 0.347368 < 0.4
+Level7 Kmeans23 Cluster2 OK !
+------------------------------
+Check Kmeans23 Cluster3
+0 <= 0.03125 < 0.1
+Level7 Kmeans23 Cluster3 OK !
+------------------------------
+Check Kmeans23 Cluster4
+0.1 <= 0.148148 < 0.2
+Level7 Kmeans23 Cluster4 OK !
+------------------------------
+Check Kmeans21 Cluster4
+616 > 500
+Level6 Kmeans21 Cluster4 need go on !
+------------------------------
+normal = 1669
+dos = 466
+probe = 147
+u2r = 1
+r2l = 2
+------------------------------
+Set K = 5
+********** Creat a new Kmeans, ID = 24 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level7 **************
+------------- Kmeans24 Cluster0 -------------
+normal = 1312
+dos = 263
+probe = 20
+u2r = 1
+r2l = 0
+------------- Kmeans24 Cluster1 -------------
+normal = 3
+dos = 161
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans24 Cluster2 -------------
+normal = 34
+dos = 40
+probe = 113
+u2r = 0
+r2l = 1
+------------- Kmeans24 Cluster3 -------------
+normal = 128
+dos = 1
+probe = 0
+u2r = 0
+r2l = 1
+------------- Kmeans24 Cluster4 -------------
+normal = 192
+dos = 1
+probe = 14
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans24 Cluster0
+0.2 <= 0.216463 < 0.3
+Level7 Kmeans24 Cluster0 OK !
+------------------------------
+Check Kmeans24 Cluster1
+0 <= 0.0186335 < 0.1
+Level7 Kmeans24 Cluster1 OK !
+------------------------------
+Check Kmeans24 Cluster2
+0.663717 > 0.4
+Level7 Kmeans24 Cluster2 need go on !
+------------------------------
+normal = 34
+dos = 40
+probe = 113
+u2r = 0
+r2l = 1
+------------------------------
+Set K = 4
+100 < Max Label <=200 and Result = 0.663717 > 0.33
+********** Creat a new Kmeans, ID = 25 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level8 **************
+------------- Kmeans25 Cluster0 -------------
+normal = 14
+dos = 0
+probe = 5
+u2r = 0
+r2l = 0
+------------- Kmeans25 Cluster1 -------------
+normal = 0
+dos = 1
+probe = 32
+u2r = 0
+r2l = 0
+------------- Kmeans25 Cluster2 -------------
+normal = 0
+dos = 0
+probe = 56
+u2r = 0
+r2l = 1
+------------- Kmeans25 Cluster3 -------------
+normal = 20
+dos = 39
+probe = 20
+u2r = 0
+r2l = 0
+*******************************************
+Check Kmeans25 Cluster0
+0.3 <= 0.357143 < 0.4
+Level8 Kmeans25 Cluster0 OK !
+------------------------------
+Check Kmeans25 Cluster1
+0 <= 0.03125 < 0.1
+Level8 Kmeans25 Cluster1 OK !
+------------------------------
+Check Kmeans25 Cluster2
+0 <= 0.0178571 < 0.1
+Level8 Kmeans25 Cluster2 OK !
+------------------------------
+Check Kmeans25 Cluster3
+1.02564 > 0.5
+Level8 Kmeans25 Cluster3 need go on !
+------------------------------
+normal = 20
+dos = 39
+probe = 20
+u2r = 0
+r2l = 0
+------------------------------
+Set K = 3
+------------------------------
+Stop Recursion! Go back !
+Check Kmeans24 Cluster3
+0 <= 0.015625 < 0.1
+Level7 Kmeans24 Cluster3 OK !
+------------------------------
+Check Kmeans24 Cluster4
+0 <= 0.078125 < 0.1
+Level7 Kmeans24 Cluster4 OK !
+------------------------------
+Check Kmeans18 Cluster4
+597 > 500
+Level5 Kmeans18 Cluster4 need go on !
+------------------------------
+normal = 6797
+dos = 0
+probe = 16
+u2r = 0
+r2l = 581
+------------------------------
+Set K = 3
+********** Creat a new Kmeans, ID = 26 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+----------- Cirle 6  ------------
+----------- Cirle 7  ------------
+----------- Cirle 8  ------------
+----------- Cirle 9  ------------
+----------- Cirle 10 ------------
+----------- Cirle 11 ------------
+----------- Cirle 12 ------------
+----------- Cirle 13 ------------
+----------- Cirle 14 ------------
+----------- Cirle 15 ------------
+----------- Cirle 16 ------------
+----------- Cirle 17 ------------
+----------- Cirle 18 ------------
+----------- Cirle 19 ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level6 **************
+------------- Kmeans26 Cluster0 -------------
+normal = 1960
+dos = 0
+probe = 16
+u2r = 0
+r2l = 2
+------------- Kmeans26 Cluster1 -------------
+normal = 4438
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+------------- Kmeans26 Cluster2 -------------
+normal = 399
+dos = 0
+probe = 0
+u2r = 0
+r2l = 579
+*******************************************
+Check Kmeans26 Cluster0
+0 <= 0.00918367 < 0.1
+Level6 Kmeans26 Cluster0 OK !
+------------------------------
+Check Kmeans26 Cluster1
+0 <= 0 < 0.1
+Level6 Kmeans26 Cluster1 OK !
+------------------------------
+Check Kmeans26 Cluster2
+0.689119 > 0.3
+Level6 Kmeans26 Cluster2 need go on !
+------------------------------
+normal = 399
+dos = 0
+probe = 0
+u2r = 0
+r2l = 579
+------------------------------
+Set K = 2
+********** Creat a new Kmeans, ID = 27 **********
+Start clustering proccess !
+----------- Cirle 1  ------------
+----------- Cirle 2  ------------
+----------- Cirle 3  ------------
+----------- Cirle 4  ------------
+----------- Cirle 5  ------------
+The Proccess of clustering is finished !
+Print clustering result ....
+************** Cluster Level7 **************
+------------- Kmeans27 Cluster0 -------------
+normal = 384
+dos = 0
+probe = 0
+u2r = 0
+r2l = 40
+------------- Kmeans27 Cluster1 -------------
+normal = 15
+dos = 0
+probe = 0
+u2r = 0
+r2l = 539
+*******************************************
+Check Kmeans27 Cluster0
+0.1 <= 0.104167 < 0.2
+Level7 Kmeans27 Cluster0 OK !
+------------------------------
+Check Kmeans27 Cluster1
+0 <= 0.0278293 < 0.1
+Level7 Kmeans27 Cluster1 OK !
+------------------------------
+****************** Total Clustering process finished ! *******************
+Start printing ClusterTree in Log ...
+Cluster 0
+------------------ Center Information -----------------
+fSrcBytes = 0
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 0
+fSrvCount = 0
+fRerrorRate = 0
+fSameSrvRate = 0
+fDiffSrvRate = 0
+fDstHostSrvCount = 0
+fDstHostSameSrvRate = 0
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 0
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.0
+------------------ Center Information -----------------
+fSrcBytes = 108.944
+fDestBytes = 5.00969e+06
+fFailedLogins = 0.166667
+fNumofRoot = 0.5
+fCount = 1.11111
+fSrvCount = 1.11111
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 26.1667
+fDstHostSameSrvRate = 90.3333
+fDstHostDiffSrvRate = 0.222222
+fDstHostSameSrcPortRate = 83.3889
+fDstHostSrvDiffHostRate = 0.0555556
+fDstHostSrvSerrorRate = 4.77778
+iLabel = 4
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 3
+dos = 0
+probe = 0
+u2r = 0
+r2l = 15
+============================================================
+Cluster 0.0.0
+------------------ Center Information -----------------
+fSrcBytes = 0
+fDestBytes = 5.15038e+06
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.125
+fSrvCount = 1.125
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 13.375
+fDstHostSameSrvRate = 95.3125
+fDstHostDiffSrvRate = 0.125
+fDstHostSameSrcPortRate = 93.75
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 5.375
+iLabel = 4
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1
+dos = 0
+probe = 0
+u2r = 0
+r2l = 15
+============================================================
+Cluster 0.0.1
+------------------ Center Information -----------------
+fSrcBytes = 980.5
+fDestBytes = 3.88416e+06
+fFailedLogins = 1.5
+fNumofRoot = 4.5
+fCount = 1
+fSrvCount = 1
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 128.5
+fDstHostSameSrvRate = 50.5
+fDstHostDiffSrvRate = 1
+fDstHostSameSrcPortRate = 0.5
+fDstHostSrvDiffHostRate = 0.5
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 2
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.1
+------------------ Center Information -----------------
+fSrcBytes = 6.93376e+08
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 57
+fSrvCount = 3
+fRerrorRate = 21
+fSameSrvRate = 5
+fDiffSrvRate = 39
+fDstHostSrvCount = 3
+fDstHostSameSrvRate = 1
+fDstHostDiffSrvRate = 9
+fDstHostSameSrcPortRate = 22
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 67
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 1
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.2
+------------------ Center Information -----------------
+fSrcBytes = 533.964
+fDestBytes = 1.47243e+06
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.03571
+fSrvCount = 1.07143
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 37.4643
+fDstHostSameSrvRate = 30.3571
+fDstHostDiffSrvRate = 2.82143
+fDstHostSameSrcPortRate = 11.5
+fDstHostSrvDiffHostRate = 3.39286
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 26
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.3
+------------------ Center Information -----------------
+fSrcBytes = 4.31343e+06
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.20732
+fSrvCount = 1.5
+fRerrorRate = 1.21951
+fSameSrvRate = 98.3781
+fDiffSrvRate = 3.2561
+fDstHostSrvCount = 42.378
+fDstHostSameSrvRate = 73.939
+fDstHostDiffSrvRate = 3.68293
+fDstHostSameSrcPortRate = 76.9878
+fDstHostSrvDiffHostRate = 8.13415
+fDstHostSrvSerrorRate = 1.7439
+iLabel = 4
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 22
+dos = 0
+probe = 0
+u2r = 0
+r2l = 60
+============================================================
+Cluster 0.3.0
+------------------ Center Information -----------------
+fSrcBytes = 2.2079e+06
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.69565
+fSrvCount = 1.6087
+fRerrorRate = 4.34783
+fSameSrvRate = 96.3913
+fDiffSrvRate = 7.26087
+fDstHostSrvCount = 61.1739
+fDstHostSameSrvRate = 35.087
+fDstHostDiffSrvRate = 7.13043
+fDstHostSameSrcPortRate = 35.087
+fDstHostSrvDiffHostRate = 2.21739
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 22
+dos = 0
+probe = 0
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.3.1
+------------------ Center Information -----------------
+fSrcBytes = 5.13423e+06
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.01695
+fSrvCount = 1.45763
+fRerrorRate = 0
+fSameSrvRate = 99.1525
+fDiffSrvRate = 1.69492
+fDstHostSrvCount = 35.0508
+fDstHostSameSrvRate = 89.0847
+fDstHostDiffSrvRate = 2.33898
+fDstHostSameSrcPortRate = 93.322
+fDstHostSrvDiffHostRate = 10.4407
+fDstHostSrvSerrorRate = 2.42373
+iLabel = 4
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 0
+u2r = 0
+r2l = 59
+============================================================
+Cluster 0.4
+------------------ Center Information -----------------
+fSrcBytes = 902.015
+fDestBytes = 602.776
+fFailedLogins = 0.000145781
+fNumofRoot = 0.0113365
+fCount = 332.757
+fSrvCount = 293.321
+fRerrorRate = 5.7446
+fSameSrvRate = 79.145
+fDiffSrvRate = 2.09817
+fDstHostSrvCount = 189.22
+fDstHostSameSrvRate = 75.375
+fDstHostDiffSrvRate = 3.09058
+fDstHostSameSrcPortRate = 60.1846
+fDstHostSrvDiffHostRate = 0.66698
+fDstHostSrvSerrorRate = 17.6483
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 97227
+dos = 391458
+probe = 4106
+u2r = 52
+r2l = 1049
+============================================================
+Cluster 0.4.0
+------------------ Center Information -----------------
+fSrcBytes = 593.608
+fDestBytes = 353228
+fFailedLogins = 0.027027
+fNumofRoot = 17.3378
+fCount = 2.59459
+fSrvCount = 3.81081
+fRerrorRate = 1.35135
+fSameSrvRate = 98.6487
+fDiffSrvRate = 2.7027
+fDstHostSrvCount = 109.405
+fDstHostSameSrvRate = 49.8649
+fDstHostDiffSrvRate = 4.2027
+fDstHostSameSrcPortRate = 5.48649
+fDstHostSrvDiffHostRate = 2.51351
+fDstHostSrvSerrorRate = 2.83784
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 72
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.1
+------------------ Center Information -----------------
+fSrcBytes = 58306.4
+fDestBytes = 7893.85
+fFailedLogins = 0
+fNumofRoot = 0.00939769
+fCount = 3.65613
+fSrvCount = 3.91243
+fRerrorRate = 3.51944
+fSameSrvRate = 99.8471
+fDiffSrvRate = 0.231952
+fDstHostSrvCount = 198.599
+fDstHostSameSrvRate = 96.1973
+fDstHostDiffSrvRate = 0.447245
+fDstHostSameSrcPortRate = 3.03161
+fDstHostSrvDiffHostRate = 0.117471
+fDstHostSrvSerrorRate = 0.289193
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 152
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.1.0
+------------------ Center Information -----------------
+fSrcBytes = 698573
+fDestBytes = 23977.8
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.77778
+fSrvCount = 1.77778
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 59.5556
+fDstHostSameSrvRate = 29.2222
+fDstHostDiffSrvRate = 3.44444
+fDstHostSameSrcPortRate = 29.2222
+fDstHostSrvDiffHostRate = 3.33333
+fDstHostSrvSerrorRate = 0.777778
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 9
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.1.1
+------------------ Center Information -----------------
+fSrcBytes = 55835.4
+fDestBytes = 7831.77
+fFailedLogins = 0
+fNumofRoot = 0.00943396
+fCount = 3.66338
+fSrvCount = 3.92067
+fRerrorRate = 3.53302
+fSameSrvRate = 99.8465
+fDiffSrvRate = 0.232847
+fDstHostSrvCount = 199.136
+fDstHostSameSrvRate = 96.4558
+fDstHostDiffSrvRate = 0.435678
+fDstHostSameSrcPortRate = 2.93053
+fDstHostSrvDiffHostRate = 0.10506
+fDstHostSrvSerrorRate = 0.287307
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 143
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.1.1.0
+------------------ Center Information -----------------
+fSrcBytes = 188550
+fDestBytes = 65
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.61905
+fSrvCount = 3.04762
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 79.2381
+fDstHostSameSrvRate = 39.1429
+fDstHostDiffSrvRate = 9.71429
+fDstHostSameSrcPortRate = 26.5238
+fDstHostSrvDiffHostRate = 1.7619
+fDstHostSrvSerrorRate = 0.428571
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 21
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.1.1.1
+------------------ Center Information -----------------
+fSrcBytes = 54629.4
+fDestBytes = 7902.35
+fFailedLogins = 0
+fNumofRoot = 0.00951969
+fCount = 3.68196
+fSrvCount = 3.9286
+fRerrorRate = 3.56512
+fSameSrvRate = 99.8451
+fDiffSrvRate = 0.234963
+fDstHostSrvCount = 200.225
+fDstHostSameSrvRate = 96.9766
+fDstHostDiffSrvRate = 0.351363
+fDstHostSameSrcPortRate = 2.71614
+fDstHostSrvDiffHostRate = 0.0900043
+fDstHostSrvSerrorRate = 0.286023
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 122
+dos = 2189
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.2
+------------------ Center Information -----------------
+fSrcBytes = 261.28
+fDestBytes = 28040.6
+fFailedLogins = 0.000272331
+fNumofRoot = 0.448529
+fCount = 5.90659
+fSrvCount = 8.56046
+fRerrorRate = 0.148148
+fSameSrvRate = 99.9728
+fDiffSrvRate = 0.0544662
+fDstHostSrvCount = 244.977
+fDstHostSameSrvRate = 98.524
+fDstHostDiffSrvRate = 0.199619
+fDstHostSameSrcPortRate = 8.16503
+fDstHostSrvDiffHostRate = 2.49755
+fDstHostSrvSerrorRate = 0.214325
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 3667
+dos = 0
+probe = 0
+u2r = 3
+r2l = 2
+============================================================
+Cluster 0.4.3
+------------------ Center Information -----------------
+fSrcBytes = 996.095
+fDestBytes = 10.6597
+fFailedLogins = 0
+fNumofRoot = 0.00778345
+fCount = 488.405
+fSrvCount = 488.416
+fRerrorRate = 0.00300654
+fSameSrvRate = 99.929
+fDiffSrvRate = 0.118666
+fDstHostSrvCount = 250.385
+fDstHostSameSrvRate = 98.3867
+fDstHostDiffSrvRate = 0.282882
+fDstHostSameSrcPortRate = 96.6141
+fDstHostSrvDiffHostRate = 0.0727597
+fDstHostSrvSerrorRate = 0.00975242
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 10894
+dos = 281068
+probe = 1
+u2r = 0
+r2l = 67
+============================================================
+Cluster 0.4.3.0
+------------------ Center Information -----------------
+fSrcBytes = 14316.9
+fDestBytes = 603.276
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 4.24459
+fSrvCount = 4.59567
+fRerrorRate = 1.12812
+fSameSrvRate = 98.8519
+fDiffSrvRate = 1.39268
+fDstHostSrvCount = 95.5075
+fDstHostSameSrvRate = 49.6905
+fDstHostDiffSrvRate = 6.88353
+fDstHostSameSrcPortRate = 23.9701
+fDstHostSrvDiffHostRate = 1.77537
+fDstHostSrvSerrorRate = 0.153078
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 587
+dos = 14
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1
+------------------ Center Information -----------------
+fSrcBytes = 930.775
+fDestBytes = 0.00244176
+fFailedLogins = 0
+fNumofRoot = 0.00799704
+fCount = 506.84
+fSrvCount = 506.836
+fRerrorRate = 0
+fSameSrvRate = 99.9915
+fDiffSrvRate = 0.0149989
+fDstHostSrvCount = 255.243
+fDstHostSameSrvRate = 99.8182
+fDstHostDiffSrvRate = 0.0230955
+fDstHostSameSrcPortRate = 99.8186
+fDstHostSrvDiffHostRate = 0.00622703
+fDstHostSrvSerrorRate = 0.00056157
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 658
+dos = 280694
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.3.1.0
+------------------ Center Information -----------------
+fSrcBytes = 1028.57
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 511.424
+fSrvCount = 511.421
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 255.633
+fDstHostSameSrvRate = 99.9699
+fDstHostDiffSrvRate = 0.00369117
+fDstHostSameSrcPortRate = 99.9699
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 227841
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1.1
+------------------ Center Information -----------------
+fSrcBytes = 691.557
+fDestBytes = 0.78125
+fFailedLogins = 0
+fNumofRoot = 3.05707
+fCount = 24.2323
+fSrvCount = 23.6617
+fRerrorRate = 0
+fSameSrvRate = 96.7554
+fDiffSrvRate = 5.7337
+fDstHostSrvCount = 84.6834
+fDstHostSameSrvRate = 39.8166
+fDstHostDiffSrvRate = 7.68614
+fDstHostSameSrcPortRate = 39.981
+fDstHostSrvDiffHostRate = 2.38043
+fDstHostSrvSerrorRate = 0.214674
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 630
+dos = 104
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.3.1.1.0
+------------------ Center Information -----------------
+fSrcBytes = 1029.07
+fDestBytes = 6.30263
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 154.632
+fSrvCount = 147.921
+fRerrorRate = 0
+fSameSrvRate = 98.6842
+fDiffSrvRate = 0
+fDstHostSrvCount = 232.724
+fDstHostSameSrvRate = 91.2632
+fDstHostDiffSrvRate = 0.789474
+fDstHostSameSrcPortRate = 91.0526
+fDstHostSrvDiffHostRate = 0.0526316
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1
+dos = 75
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1.1.1
+------------------ Center Information -----------------
+fSrcBytes = 662.097
+fDestBytes = 0.0388979
+fFailedLogins = 0
+fNumofRoot = 3.63857
+fCount = 1.93517
+fSrvCount = 2.08104
+fRerrorRate = 0
+fSameSrvRate = 96.2917
+fDiffSrvRate = 6.83955
+fDstHostSrvCount = 58.2982
+fDstHostSameSrvRate = 29.2853
+fDstHostDiffSrvRate = 9.07131
+fDstHostSameSrcPortRate = 29.5073
+fDstHostSrvDiffHostRate = 2.82982
+fDstHostSrvSerrorRate = 0.256078
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 610
+dos = 5
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.3.1.1.2
+------------------ Center Information -----------------
+fSrcBytes = 517.744
+fDestBytes = 1.67442
+fFailedLogins = 0
+fNumofRoot = 0.116279
+fCount = 113.698
+fSrvCount = 113.698
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 201.628
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 100
+fDstHostSrvDiffHostRate = 0.0465116
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 19
+dos = 24
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1.1.2.0
+------------------ Center Information -----------------
+fSrcBytes = 514.25
+fDestBytes = 3.66667
+fFailedLogins = 0
+fNumofRoot = 0.416667
+fCount = 91.75
+fSrvCount = 91.75
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 101.667
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 100
+fDstHostSrvDiffHostRate = 0.166667
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 12
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1.1.2.1
+------------------ Center Information -----------------
+fSrcBytes = 519.097
+fDestBytes = 0.903226
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 122.194
+fSrvCount = 122.194
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 240.323
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 100
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 7
+dos = 24
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.1.2
+------------------ Center Information -----------------
+fSrcBytes = 519.998
+fDestBytes = 0.00212214
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 493.503
+fSrvCount = 493.503
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 254.937
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 100
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 28
+dos = 52749
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.2
+------------------ Center Information -----------------
+fSrcBytes = 1498.99
+fDestBytes = 297.245
+fFailedLogins = 0
+fNumofRoot = 0.0025297
+fCount = 2.17906
+fSrvCount = 2.80004
+fRerrorRate = 0.0109987
+fSameSrvRate = 98.3106
+fDiffSrvRate = 3.01485
+fDstHostSrvCount = 128.689
+fDstHostSameSrvRate = 63.3725
+fDstHostDiffSrvRate = 7.18786
+fDstHostSameSrcPortRate = 8.98977
+fDstHostSrvDiffHostRate = 1.78575
+fDstHostSrvSerrorRate = 0.245271
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 8698
+dos = 360
+probe = 1
+u2r = 0
+r2l = 33
+============================================================
+Cluster 0.4.3.2.0
+------------------ Center Information -----------------
+fSrcBytes = 3420.71
+fDestBytes = 215.005
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 4.50441
+fSrvCount = 4.806
+fRerrorRate = 0
+fSameSrvRate = 97.3122
+fDiffSrvRate = 3.47266
+fDstHostSrvCount = 112.111
+fDstHostSameSrvRate = 57.0864
+fDstHostDiffSrvRate = 7.51499
+fDstHostSameSrcPortRate = 17.716
+fDstHostSrvDiffHostRate = 1.5485
+fDstHostSrvSerrorRate = 0.409171
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 567
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.2.1
+------------------ Center Information -----------------
+fSrcBytes = 1517.05
+fDestBytes = 288.361
+fFailedLogins = 0
+fNumofRoot = 0.00323625
+fCount = 1.72524
+fSrvCount = 2.43689
+fRerrorRate = 0
+fSameSrvRate = 98.3521
+fDiffSrvRate = 3.03819
+fDstHostSrvCount = 124.4
+fDstHostSameSrvRate = 63.2832
+fDstHostDiffSrvRate = 7.21359
+fDstHostSameSrcPortRate = 10.7997
+fDstHostSrvDiffHostRate = 2.84984
+fDstHostSrvSerrorRate = 0.232686
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 2829
+dos = 259
+probe = 1
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.4.3.2.2
+------------------ Center Information -----------------
+fSrcBytes = 1004.39
+fDestBytes = 304.541
+fFailedLogins = 0
+fNumofRoot = 0.00310633
+fCount = 2.43632
+fSrvCount = 3.01744
+fRerrorRate = 0.0238949
+fSameSrvRate = 98.378
+fDiffSrvRate = 2.919
+fDstHostSrvCount = 132.764
+fDstHostSameSrvRate = 64.1147
+fDstHostDiffSrvRate = 7.16081
+fDstHostSameSrcPortRate = 7.76416
+fDstHostSrvDiffHostRate = 1.19307
+fDstHostSrvSerrorRate = 0.223178
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 4052
+dos = 101
+probe = 0
+u2r = 0
+r2l = 32
+============================================================
+Cluster 0.4.3.2.3
+------------------ Center Information -----------------
+fSrcBytes = 2238.55
+fDestBytes = 332.085
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.3848
+fSrvCount = 2.06
+fRerrorRate = 0
+fSameSrvRate = 98.4352
+fDiffSrvRate = 3.0704
+fDstHostSrvCount = 133.167
+fDstHostSameSrvRate = 63.96
+fDstHostDiffSrvRate = 7.0664
+fDstHostSameSrcPortRate = 4.6608
+fDstHostSrvDiffHostRate = 1.2472
+fDstHostSrvSerrorRate = 0.276
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1250
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.3.3
+------------------ Center Information -----------------
+fSrcBytes = 7062.78
+fDestBytes = 47.9491
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 8.07731
+fSrvCount = 8.06104
+fRerrorRate = 0.101729
+fSameSrvRate = 97.6592
+fDiffSrvRate = 2.2238
+fDstHostSrvCount = 76.2319
+fDstHostSameSrvRate = 42.3693
+fDstHostDiffSrvRate = 6.73754
+fDstHostSameSrcPortRate = 35.177
+fDstHostSrvDiffHostRate = 2.23093
+fDstHostSrvSerrorRate = 0.374364
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 951
+dos = 0
+probe = 0
+u2r = 0
+r2l = 32
+============================================================
+Cluster 0.4.4
+------------------ Center Information -----------------
+fSrcBytes = 91.2563
+fDestBytes = 750.676
+fFailedLogins = 0.000352445
+fNumofRoot = 0.00191036
+fCount = 110.873
+fSrvCount = 11.4708
+fRerrorRate = 14.4423
+fSameSrvRate = 47.5088
+fDiffSrvRate = 5.11133
+fDstHostSrvCount = 96.6871
+fDstHostSameSrvRate = 40.3889
+fDstHostDiffSrvRate = 7.36413
+fDstHostSameSrcPortRate = 7.53977
+fDstHostSrvDiffHostRate = 1.52489
+fDstHostSrvSerrorRate = 44.4991
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 82442
+dos = 108201
+probe = 4105
+u2r = 49
+r2l = 978
+============================================================
+Cluster 0.4.4.0
+------------------ Center Information -----------------
+fSrcBytes = 267.224
+fDestBytes = 11354.1
+fFailedLogins = 0
+fNumofRoot = 0.0154625
+fCount = 7.23644
+fSrvCount = 10.3452
+fRerrorRate = 0.426202
+fSameSrvRate = 99.9719
+fDiffSrvRate = 0.0562272
+fDstHostSrvCount = 242.664
+fDstHostSameSrvRate = 99.1428
+fDstHostDiffSrvRate = 0.091088
+fDstHostSameSrcPortRate = 6.99185
+fDstHostSrvDiffHostRate = 2.45966
+fDstHostSrvSerrorRate = 0.171212
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 3555
+dos = 0
+probe = 0
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.4.1
+------------------ Center Information -----------------
+fSrcBytes = 262.303
+fDestBytes = 6844.25
+fFailedLogins = 0
+fNumofRoot = 0.00374813
+fCount = 8.45802
+fSrvCount = 11.5542
+fRerrorRate = 0.219828
+fSameSrvRate = 99.9681
+fDiffSrvRate = 0.0637181
+fDstHostSrvCount = 246.868
+fDstHostSameSrvRate = 99.1677
+fDstHostDiffSrvRate = 0.122189
+fDstHostSameSrcPortRate = 7.4063
+fDstHostSrvDiffHostRate = 2.51181
+fDstHostSrvSerrorRate = 0.113756
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 5322
+dos = 0
+probe = 0
+u2r = 9
+r2l = 5
+============================================================
+Cluster 0.4.4.2
+------------------ Center Information -----------------
+fSrcBytes = 264.957
+fDestBytes = 1398.86
+fFailedLogins = 9.8868e-05
+fNumofRoot = 0.00024717
+fCount = 10.3625
+fSrvCount = 13.5177
+fRerrorRate = 0.0557121
+fSameSrvRate = 99.9483
+fDiffSrvRate = 0.0722725
+fDstHostSrvCount = 244.361
+fDstHostSameSrvRate = 98.5232
+fDstHostDiffSrvRate = 0.217707
+fDstHostSameSrcPortRate = 4.09417
+fDstHostSrvDiffHostRate = 2.02037
+fDstHostSrvSerrorRate = 0.0854714
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 20183
+dos = 0
+probe = 0
+u2r = 10
+r2l = 36
+============================================================
+Cluster 0.4.4.3
+------------------ Center Information -----------------
+fSrcBytes = 299.027
+fDestBytes = 3361.68
+fFailedLogins = 9.97805e-05
+fNumofRoot = 0.000598683
+fCount = 8.83207
+fSrvCount = 11.6951
+fRerrorRate = 0.100479
+fSameSrvRate = 99.9139
+fDiffSrvRate = 0.138196
+fDstHostSrvCount = 237.638
+fDstHostSameSrvRate = 96.5077
+fDstHostDiffSrvRate = 0.330972
+fDstHostSameSrcPortRate = 5.55687
+fDstHostSrvDiffHostRate = 2.23997
+fDstHostSrvSerrorRate = 0.0967871
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 9724
+dos = 0
+probe = 0
+u2r = 21
+r2l = 277
+============================================================
+Cluster 0.4.4.3.0
+------------------ Center Information -----------------
+fSrcBytes = 266.927
+fDestBytes = 4287.32
+fFailedLogins = 0
+fNumofRoot = 0.00115274
+fCount = 8.67233
+fSrvCount = 11.3772
+fRerrorRate = 0.139193
+fSameSrvRate = 99.9761
+fDiffSrvRate = 0.0233429
+fDstHostSrvCount = 243.778
+fDstHostSameSrvRate = 98.8948
+fDstHostDiffSrvRate = 0.134006
+fDstHostSameSrcPortRate = 6.95418
+fDstHostSrvDiffHostRate = 2.76628
+fDstHostSrvSerrorRate = 0.0951009
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 3465
+dos = 0
+probe = 0
+u2r = 5
+r2l = 0
+============================================================
+Cluster 0.4.4.3.1
+------------------ Center Information -----------------
+fSrcBytes = 1214.69
+fDestBytes = 2594.08
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.28919
+fSrvCount = 1.04054
+fRerrorRate = 0.540541
+fSameSrvRate = 98.3351
+fDiffSrvRate = 2.63514
+fDstHostSrvCount = 59.8324
+fDstHostSameSrvRate = 31.3027
+fDstHostDiffSrvRate = 3.51892
+fDstHostSameSrcPortRate = 2.52703
+fDstHostSrvDiffHostRate = 0.597297
+fDstHostSrvSerrorRate = 0.0324324
+iLabel = 4
+IsClusterOK = 0
+IsLeaf = 2
+---------------------- Label Number ---------------------
+normal = 79
+dos = 0
+probe = 0
+u2r = 15
+r2l = 276
+============================================================
+Cluster 0.4.4.3.1.0
+------------------ Center Information -----------------
+fSrcBytes = 2366
+fDestBytes = 3797.78
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 2.44444
+fSrvCount = 2.33333
+fRerrorRate = 16.6667
+fSameSrvRate = 94.4444
+fDiffSrvRate = 11.1111
+fDstHostSrvCount = 32.3333
+fDstHostSameSrvRate = 91.6667
+fDstHostDiffSrvRate = 5.55556
+fDstHostSameSrcPortRate = 32.6667
+fDstHostSrvDiffHostRate = 11.5556
+fDstHostSrvSerrorRate = 0
+iLabel = 3
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 2
+dos = 0
+probe = 0
+u2r = 7
+r2l = 0
+============================================================
+Cluster 0.4.4.3.1.1
+------------------ Center Information -----------------
+fSrcBytes = 1086.56
+fDestBytes = 3040.22
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.14062
+fSrvCount = 1.03125
+fRerrorRate = 0
+fSameSrvRate = 94.2656
+fDiffSrvRate = 10.4219
+fDstHostSrvCount = 27.3594
+fDstHostSameSrvRate = 31.8594
+fDstHostDiffSrvRate = 8.3125
+fDstHostSameSrcPortRate = 7.26562
+fDstHostSrvDiffHostRate = 1.04688
+fDstHostSrvSerrorRate = 0.140625
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 60
+dos = 0
+probe = 0
+u2r = 4
+r2l = 0
+============================================================
+Cluster 0.4.4.3.1.2
+------------------ Center Information -----------------
+fSrcBytes = 1207.41
+fDestBytes = 2461.47
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.2862
+fSrvCount = 1.00337
+fRerrorRate = 0.16835
+fSameSrvRate = 99.33
+fDiffSrvRate = 0.700337
+fDstHostSrvCount = 67.6633
+fDstHostSameSrvRate = 29.3535
+fDstHostDiffSrvRate = 2.42424
+fDstHostSameSrcPortRate = 0.592593
+fDstHostSrvDiffHostRate = 0.16835
+fDstHostSrvSerrorRate = 0.010101
+iLabel = 4
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 17
+dos = 0
+probe = 0
+u2r = 4
+r2l = 276
+============================================================
+Cluster 0.4.4.3.2
+------------------ Center Information -----------------
+fSrcBytes = 262.241
+fDestBytes = 2888.03
+fFailedLogins = 0.00016176
+fNumofRoot = 0.00032352
+fCount = 9.37318
+fSrvCount = 12.5112
+fRerrorRate = 0.0524102
+fSameSrvRate = 99.9735
+fDiffSrvRate = 0.053219
+fDstHostSrvCount = 244.833
+fDstHostSameSrvRate = 99.0704
+fDstHostDiffSrvRate = 0.250728
+fDstHostSameSrcPortRate = 4.9539
+fDstHostSrvDiffHostRate = 2.04287
+fDstHostSrvSerrorRate = 0.101585
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 6180
+dos = 0
+probe = 0
+u2r = 1
+r2l = 1
+============================================================
+Cluster 0.4.4.4
+------------------ Center Information -----------------
+fSrcBytes = 45.7071
+fDestBytes = 51.5827
+fFailedLogins = 0.000421373
+fNumofRoot = 0.00183872
+fCount = 136.227
+fSrvCount = 11.2148
+fRerrorRate = 18.0209
+fSameSrvRate = 34.4045
+fDiffSrvRate = 6.36709
+fDstHostSrvCount = 60.1471
+fDstHostSameSrvRate = 25.9534
+fDstHostDiffSrvRate = 9.14899
+fDstHostSameSrcPortRate = 8.12864
+fDstHostSrvDiffHostRate = 1.3603
+fDstHostSrvSerrorRate = 55.595
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 43658
+dos = 108201
+probe = 4105
+u2r = 9
+r2l = 658
+============================================================
+Cluster 0.4.4.4.0
+------------------ Center Information -----------------
+fSrcBytes = 345.457
+fDestBytes = 505.364
+fFailedLogins = 0
+fNumofRoot = 0.00178918
+fCount = 9.73953
+fSrvCount = 12.768
+fRerrorRate = 0.0329506
+fSameSrvRate = 99.7036
+fDiffSrvRate = 0.511108
+fDstHostSrvCount = 225.593
+fDstHostSameSrvRate = 92.605
+fDstHostDiffSrvRate = 1.41941
+fDstHostSameSrcPortRate = 4.2569
+fDstHostSrvDiffHostRate = 1.80766
+fDstHostSrvSerrorRate = 0.0866259
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 6704
+dos = 0
+probe = 0
+u2r = 3
+r2l = 0
+============================================================
+Cluster 0.4.4.4.1
+------------------ Center Information -----------------
+fSrcBytes = 0.0329824
+fDestBytes = 0.0176905
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 189.933
+fSrvCount = 11.1673
+fRerrorRate = 0.0139771
+fSameSrvRate = 6.93255
+fDiffSrvRate = 6.42119
+fDstHostSrvCount = 11.173
+fDstHostSameSrvRate = 4.38694
+fDstHostDiffSrvRate = 6.61249
+fDstHostSameSrcPortRate = 0.0526565
+fDstHostSrvDiffHostRate = 0.0026409
+fDstHostSrvSerrorRate = 99.8562
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 16
+dos = 86646
+probe = 51
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.2
+------------------ Center Information -----------------
+fSrcBytes = 259.266
+fDestBytes = 312.536
+fFailedLogins = 0.000438164
+fNumofRoot = 0.00219082
+fCount = 10.6279
+fSrvCount = 14.2573
+fRerrorRate = 0.0451309
+fSameSrvRate = 99.9487
+fDiffSrvRate = 0.0598094
+fDstHostSrvCount = 249.639
+fDstHostSameSrvRate = 99.3303
+fDstHostDiffSrvRate = 0.111841
+fDstHostSameSrcPortRate = 4.73272
+fDstHostSrvDiffHostRate = 1.71673
+fDstHostSrvSerrorRate = 0.0679154
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 9125
+dos = 0
+probe = 0
+u2r = 1
+r2l = 3
+============================================================
+Cluster 0.4.4.4.3
+------------------ Center Information -----------------
+fSrcBytes = 0.116518
+fDestBytes = 0.120338
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 203.272
+fSrvCount = 10.2174
+fRerrorRate = 98.9719
+fSameSrvRate = 6.03029
+fDiffSrvRate = 12.6739
+fDstHostSrvCount = 10.0251
+fDstHostSameSrvRate = 3.9115
+fDstHostDiffSrvRate = 12.9177
+fDstHostSameSrcPortRate = 0.281108
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0.775423
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 26
+dos = 20478
+probe = 1484
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.3.0
+------------------ Center Information -----------------
+fSrcBytes = 0.0599474
+fDestBytes = 0.0274263
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 131.483
+fSrvCount = 9.76267
+fRerrorRate = 99.7594
+fSameSrvRate = 7.70782
+fDiffSrvRate = 7.26747
+fDstHostSrvCount = 9.60262
+fDstHostSameSrvRate = 3.76055
+fDstHostDiffSrvRate = 7.08423
+fDstHostSameSrcPortRate = 0.184937
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0.00424556
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 11681
+probe = 96
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.3.1
+------------------ Center Information -----------------
+fSrcBytes = 70.6923
+fDestBytes = 78.7308
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 294.423
+fSrvCount = 293.846
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0.576923
+fDstHostSrvCount = 197.885
+fDstHostSameSrvRate = 87.5769
+fDstHostDiffSrvRate = 1.03846
+fDstHostSameSrcPortRate = 9.34615
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 26
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.3.2
+------------------ Center Information -----------------
+fSrcBytes = 0.0017673
+fDestBytes = 0.0270987
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 286.049
+fSrvCount = 10.0192
+fRerrorRate = 98.3141
+fSameSrvRate = 3.85066
+fDiffSrvRate = 18.9562
+fDstHostSrvCount = 10.0341
+fDstHostSameSrvRate = 3.87246
+fDstHostDiffSrvRate = 19.6934
+fDstHostSameSrcPortRate = 0.36917
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 1.66912
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 0
+dos = 8797
+probe = 1388
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.3.2.0
+------------------ Center Information -----------------
+fSrcBytes = 0.0137195
+fDestBytes = 0.210366
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 506.723
+fSrvCount = 1.02134
+fRerrorRate = 87.234
+fSameSrvRate = 0.00457317
+fDiffSrvRate = 99.5755
+fDstHostSrvCount = 1.01982
+fDstHostSameSrvRate = 0.0121951
+fDstHostDiffSrvRate = 99.5663
+fDstHostSameSrcPortRate = 0.542683
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 12.7287
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 1312
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.3.2.1
+------------------ Center Information -----------------
+fSrcBytes = 0
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 253.419
+fSrvCount = 11.3497
+fRerrorRate = 99.9524
+fSameSrvRate = 4.41936
+fDiffSrvRate = 7.0355
+fDstHostSrvCount = 11.367
+fDstHostSameSrvRate = 4.44325
+fDstHostDiffSrvRate = 7.88302
+fDstHostSameSrcPortRate = 0.343514
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0.0338104
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 8797
+probe = 76
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4
+------------------ Center Information -----------------
+fSrcBytes = 76.9583
+fDestBytes = 57.1026
+fFailedLogins = 0.00193183
+fNumofRoot = 0.00797657
+fCount = 7.61887
+fSrvCount = 10.8364
+fRerrorRate = 20.0843
+fSameSrvRate = 95.7788
+fDiffSrvRate = 4.91793
+fDstHostSrvCount = 138.332
+fDstHostSameSrvRate = 64.5231
+fDstHostDiffSrvRate = 17.6061
+fDstHostSameSrcPortRate = 37.1002
+fDstHostSrvDiffHostRate = 5.76556
+fDstHostSrvSerrorRate = 0.960242
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 27787
+dos = 1077
+probe = 2570
+u2r = 5
+r2l = 655
+============================================================
+Cluster 0.4.4.4.4.0
+------------------ Center Information -----------------
+fSrcBytes = 82.8558
+fDestBytes = 100.694
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 13.6538
+fSrvCount = 20.1496
+fRerrorRate = 0.0166968
+fSameSrvRate = 98.8923
+fDiffSrvRate = 1.2526
+fDstHostSrvCount = 237.428
+fDstHostSameSrvRate = 93.7801
+fDstHostDiffSrvRate = 0.980807
+fDstHostSameSrcPortRate = 2.78062
+fDstHostSrvDiffHostRate = 0.0531887
+fDstHostSrvSerrorRate = 0.00120492
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 11613
+dos = 0
+probe = 6
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1
+------------------ Center Information -----------------
+fSrcBytes = 2.50074
+fDestBytes = 0.216912
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.68272
+fSrvCount = 4.7386
+fRerrorRate = 81.936
+fSameSrvRate = 99.9825
+fDiffSrvRate = 0.0145221
+fDstHostSrvCount = 239.298
+fDstHostSameSrvRate = 99.42
+fDstHostDiffSrvRate = 0.179596
+fDstHostSameSrcPortRate = 40.0022
+fDstHostSrvDiffHostRate = 18.6169
+fDstHostSrvSerrorRate = 0.0229779
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 2
+---------------------- Label Number ---------------------
+normal = 4706
+dos = 21
+probe = 713
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1.0
+------------------ Center Information -----------------
+fSrcBytes = 0
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.13772
+fSrvCount = 1.49475
+fRerrorRate = 99.5723
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 239.298
+fDstHostSameSrvRate = 99.622
+fDstHostDiffSrvRate = 0.0471719
+fDstHostSameSrcPortRate = 28.641
+fDstHostSrvDiffHostRate = 14.07
+fDstHostSrvSerrorRate = 0.0228035
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 4473
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1.1
+------------------ Center Information -----------------
+fSrcBytes = 13.8541
+fDestBytes = 1.25666
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.60596
+fSrvCount = 17.705
+fRerrorRate = 0.367412
+fSameSrvRate = 99.9649
+fDiffSrvRate = 0.0713525
+fDstHostSrvCount = 241.125
+fDstHostSameSrvRate = 99.3429
+fDstHostDiffSrvRate = 0.0766773
+fDstHostSameSrcPortRate = 93.0351
+fDstHostSrvDiffHostRate = 40.8317
+fDstHostSrvSerrorRate = 0.0244941
+iLabel = 2
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 233
+dos = 0
+probe = 706
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1.1.0
+------------------ Center Information -----------------
+fSrcBytes = 9.56894
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1
+fSrvCount = 22.3027
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 253.54
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 100
+fDstHostSrvDiffHostRate = 56.6561
+fDstHostSrvSerrorRate = 0
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 631
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1.1.1
+------------------ Center Information -----------------
+fSrcBytes = 22.6331
+fDestBytes = 3.83117
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 2.8474
+fSrvCount = 8.28571
+fRerrorRate = 1.12013
+fSameSrvRate = 99.8929
+fDiffSrvRate = 0.217532
+fDstHostSrvCount = 215.688
+fDstHostSameSrvRate = 97.9967
+fDstHostDiffSrvRate = 0.233766
+fDstHostSameSrcPortRate = 78.7662
+fDstHostSrvDiffHostRate = 8.41234
+fDstHostSrvSerrorRate = 0.0746753
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 233
+dos = 0
+probe = 75
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.1.2
+------------------ Center Information -----------------
+fSrcBytes = 21.25
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 91.3214
+fSrvCount = 88.1071
+fRerrorRate = 0
+fSameSrvRate = 97.7857
+fDiffSrvRate = 0.428571
+fDstHostSrvCount = 177.964
+fDstHostSameSrvRate = 69.75
+fDstHostDiffSrvRate = 24.7857
+fDstHostSameSrcPortRate = 76.4643
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 0
+dos = 21
+probe = 7
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.2
+------------------ Center Information -----------------
+fSrcBytes = 41.4518
+fDestBytes = 151.619
+fFailedLogins = 0.0597303
+fNumofRoot = 0
+fCount = 5.22447
+fSrvCount = 10.1166
+fRerrorRate = 4.84489
+fSameSrvRate = 97.763
+fDiffSrvRate = 3.83141
+fDstHostSrvCount = 37.7389
+fDstHostSameSrvRate = 43.6339
+fDstHostDiffSrvRate = 6.82755
+fDstHostSameSrcPortRate = 4.82852
+fDstHostSrvDiffHostRate = 7.04624
+fDstHostSrvSerrorRate = 0.582852
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 979
+dos = 0
+probe = 3
+u2r = 2
+r2l = 54
+============================================================
+Cluster 0.4.4.4.4.3
+------------------ Center Information -----------------
+fSrcBytes = 21.2752
+fDestBytes = 5.40118
+fFailedLogins = 0
+fNumofRoot = 0.000605785
+fCount = 8.6232
+fSrvCount = 10.0527
+fRerrorRate = 29.3171
+fSameSrvRate = 95.0969
+fDiffSrvRate = 5.82357
+fDstHostSrvCount = 38.6671
+fDstHostSameSrvRate = 46.5449
+fDstHostDiffSrvRate = 19.5773
+fDstHostSameSrcPortRate = 49.0668
+fDstHostSrvDiffHostRate = 9.83038
+fDstHostSrvSerrorRate = 4.49296
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 3692
+dos = 1056
+probe = 1832
+u2r = 3
+r2l = 20
+============================================================
+Cluster 0.4.4.4.4.3.0
+------------------ Center Information -----------------
+fSrcBytes = 33.2839
+fDestBytes = 4.49564
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 48.4545
+fSrvCount = 48.5442
+fRerrorRate = 0.107098
+fSameSrvRate = 98.1818
+fDiffSrvRate = 1.40722
+fDstHostSrvCount = 82.7883
+fDstHostSameSrvRate = 39.9714
+fDstHostDiffSrvRate = 11.2951
+fDstHostSameSrcPortRate = 30.401
+fDstHostSrvDiffHostRate = 0.246575
+fDstHostSrvSerrorRate = 0.610212
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 213
+dos = 573
+probe = 17
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.0.0
+------------------ Center Information -----------------
+fSrcBytes = 44.5019
+fDestBytes = 13.4942
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 7.55598
+fSrvCount = 8.66409
+fRerrorRate = 0
+fSameSrvRate = 97.6911
+fDiffSrvRate = 2.74903
+fDstHostSrvCount = 99.8301
+fDstHostSameSrvRate = 56.6988
+fDstHostDiffSrvRate = 7.35907
+fDstHostSameSrcPortRate = 23.7336
+fDstHostSrvDiffHostRate = 0.764479
+fDstHostSrvSerrorRate = 1.89189
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 206
+dos = 53
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.0.1
+------------------ Center Information -----------------
+fSrcBytes = 28.6625
+fDestBytes = 0.238095
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 69.7205
+fSrvCount = 70.0621
+fRerrorRate = 0.178054
+fSameSrvRate = 99.0828
+fDiffSrvRate = 0.730849
+fDstHostSrvCount = 66.677
+fDstHostSameSrvRate = 29.2133
+fDstHostDiffSrvRate = 10.1863
+fDstHostSameSrcPortRate = 29.648
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 7
+dos = 472
+probe = 4
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.0.2
+------------------ Center Information -----------------
+fSrcBytes = 22.2459
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 53.7213
+fSrvCount = 47.4918
+fRerrorRate = 0
+fSameSrvRate = 93.1311
+fDiffSrvRate = 1.06557
+fDstHostSrvCount = 138
+fDstHostSameSrvRate = 54.1311
+fDstHostDiffSrvRate = 36.7869
+fDstHostSameSrcPortRate = 64.6721
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 48
+probe = 13
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.1
+------------------ Center Information -----------------
+fSrcBytes = 0.0431499
+fDestBytes = 0.0862999
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.07012
+fSrvCount = 1.411
+fRerrorRate = 99.836
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 53.507
+fDstHostSameSrvRate = 97.1143
+fDstHostDiffSrvRate = 0.655879
+fDstHostSameSrcPortRate = 28.3981
+fDstHostSrvDiffHostRate = 17.0022
+fDstHostSrvSerrorRate = 0.270766
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 920
+dos = 0
+probe = 7
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.2
+------------------ Center Information -----------------
+fSrcBytes = 0.0768535
+fDestBytes = 0.0831826
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.22785
+fSrvCount = 1.07685
+fRerrorRate = 90.0543
+fSameSrvRate = 92.4051
+fDiffSrvRate = 15.1899
+fDstHostSrvCount = 1.13382
+fDstHostSameSrvRate = 0.481917
+fDstHostDiffSrvRate = 85.2116
+fDstHostSameSrcPortRate = 86.8011
+fDstHostSrvDiffHostRate = 5.78662
+fDstHostSrvSerrorRate = 9.49367
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1
+dos = 0
+probe = 1105
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.3
+------------------ Center Information -----------------
+fSrcBytes = 30.8097
+fDestBytes = 3.60796
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.68219
+fSrvCount = 8.47301
+fRerrorRate = 0
+fSameSrvRate = 99.8158
+fDiffSrvRate = 0.0897436
+fDstHostSrvCount = 57.7463
+fDstHostSameSrvRate = 96.8016
+fDstHostDiffSrvRate = 1.07827
+fDstHostSameSrcPortRate = 96.3138
+fDstHostSrvDiffHostRate = 23.7713
+fDstHostSrvSerrorRate = 1.15655
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 889
+dos = 17
+probe = 556
+u2r = 2
+r2l = 18
+============================================================
+Cluster 0.4.4.4.4.3.3.0
+------------------ Center Information -----------------
+fSrcBytes = 86.7525
+fDestBytes = 17.7121
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 2.71212
+fSrvCount = 3.28283
+fRerrorRate = 0
+fSameSrvRate = 99.7475
+fDiffSrvRate = 0.50505
+fDstHostSrvCount = 49.5202
+fDstHostSameSrvRate = 85.1566
+fDstHostDiffSrvRate = 3.07071
+fDstHostSameSrcPortRate = 82.9495
+fDstHostSrvDiffHostRate = 0.292929
+fDstHostSrvSerrorRate = 0.0353535
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 198
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.3.1
+------------------ Center Information -----------------
+fSrcBytes = 17.1111
+fDestBytes = 0.280702
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1
+fSrvCount = 1.33918
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 44.1696
+fDstHostSameSrvRate = 99.7076
+fDstHostDiffSrvRate = 0.584795
+fDstHostSameSrcPortRate = 99.7076
+fDstHostSrvDiffHostRate = 99.5731
+fDstHostSrvSerrorRate = 4.4152
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1
+dos = 9
+probe = 161
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.3.2
+------------------ Center Information -----------------
+fSrcBytes = 26.9323
+fDestBytes = 0.802083
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 2.19271
+fSrvCount = 7.10938
+fRerrorRate = 0
+fSameSrvRate = 99.8177
+fDiffSrvRate = 0.0520833
+fDstHostSrvCount = 104.622
+fDstHostSameSrvRate = 97.0339
+fDstHostDiffSrvRate = 1.03385
+fDstHostSameSrcPortRate = 97.3255
+fDstHostSrvDiffHostRate = 11.2188
+fDstHostSrvSerrorRate = 0.0078125
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 285
+dos = 0
+probe = 98
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.4.4.4.4.3.3.3
+------------------ Center Information -----------------
+fSrcBytes = 7.83333
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.21591
+fSrvCount = 30.7462
+fRerrorRate = 0
+fSameSrvRate = 99.6288
+fDiffSrvRate = 0.0151515
+fDstHostSrvCount = 53.0265
+fDstHostSameSrvRate = 100
+fDstHostDiffSrvRate = 0
+fDstHostSameSrcPortRate = 99.6364
+fDstHostSrvDiffHostRate = 46.7614
+fDstHostSrvSerrorRate = 2.05303
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 256
+u2r = 0
+r2l = 8
+============================================================
+Cluster 0.4.4.4.4.3.3.4
+------------------ Center Information -----------------
+fSrcBytes = 28.2731
+fDestBytes = 3.1914
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.33763
+fSrvCount = 1.7871
+fRerrorRate = 0
+fSameSrvRate = 99.8817
+fDiffSrvRate = 0.0193548
+fDstHostSrvCount = 30.2108
+fDstHostSameSrvRate = 98.6839
+fDstHostDiffSrvRate = 1.06021
+fDstHostSameSrcPortRate = 98.0344
+fDstHostSrvDiffHostRate = 3.20645
+fDstHostSrvSerrorRate = 0.875269
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 405
+dos = 8
+probe = 41
+u2r = 2
+r2l = 9
+============================================================
+Cluster 0.4.4.4.4.3.4
+------------------ Center Information -----------------
+fSrcBytes = 29.7453
+fDestBytes = 11.6127
+fFailedLogins = 0
+fNumofRoot = 0.00175055
+fCount = 5.77112
+fSrvCount = 5.40088
+fRerrorRate = 0.589497
+fSameSrvRate = 90.2661
+fDiffSrvRate = 8.92341
+fDstHostSrvCount = 22.9344
+fDstHostSameSrvRate = 18.0398
+fDstHostDiffSrvRate = 10.3934
+fDstHostSameSrcPortRate = 15.1037
+fDstHostSrvDiffHostRate = 3.20438
+fDstHostSrvSerrorRate = 7.31379
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 1669
+dos = 466
+probe = 147
+u2r = 1
+r2l = 2
+============================================================
+Cluster 0.4.4.4.4.3.4.0
+------------------ Center Information -----------------
+fSrcBytes = 34.8415
+fDestBytes = 12.4323
+fFailedLogins = 0
+fNumofRoot = 0.00125313
+fCount = 4.91103
+fSrvCount = 5.67669
+fRerrorRate = 0.733083
+fSameSrvRate = 99.8039
+fDiffSrvRate = 0.215539
+fDstHostSrvCount = 24.6842
+fDstHostSameSrvRate = 14.5457
+fDstHostDiffSrvRate = 5.74499
+fDstHostSameSrcPortRate = 14.3289
+fDstHostSrvDiffHostRate = 3.19298
+fDstHostSrvSerrorRate = 0.187343
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1312
+dos = 263
+probe = 20
+u2r = 1
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.4.1
+------------------ Center Information -----------------
+fSrcBytes = 0.451219
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 6.88415
+fSrvCount = 4.63415
+fRerrorRate = 0.164634
+fSameSrvRate = 82.8232
+fDiffSrvRate = 10.8841
+fDstHostSrvCount = 27.5671
+fDstHostSameSrvRate = 16.6707
+fDstHostDiffSrvRate = 5.2622
+fDstHostSameSrcPortRate = 0.896341
+fDstHostSrvDiffHostRate = 0.591463
+fDstHostSrvSerrorRate = 98.75
+iLabel = 1
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 3
+dos = 161
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.4.2
+------------------ Center Information -----------------
+fSrcBytes = 11.2606
+fDestBytes = 3.8883
+fFailedLogins = 0
+fNumofRoot = 0.00531915
+fCount = 14.7819
+fSrvCount = 8.17021
+fRerrorRate = 0
+fSameSrvRate = 67.6064
+fDiffSrvRate = 9.80319
+fDstHostSrvCount = 12.8404
+fDstHostSameSrvRate = 9.33511
+fDstHostDiffSrvRate = 59.8191
+fDstHostSameSrcPortRate = 41.8617
+fDstHostSrvDiffHostRate = 5.00532
+fDstHostSrvSerrorRate = 0.239362
+iLabel = 2
+IsClusterOK = 0
+IsLeaf = 2
+---------------------- Label Number ---------------------
+normal = 34
+dos = 40
+probe = 113
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.4.4.4.4.3.4.2.0
+------------------ Center Information -----------------
+fSrcBytes = 18.3158
+fDestBytes = 12.5789
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1
+fSrvCount = 2.73684
+fRerrorRate = 0
+fSameSrvRate = 100
+fDiffSrvRate = 0
+fDstHostSrvCount = 9
+fDstHostSameSrvRate = 39.5789
+fDstHostDiffSrvRate = 87.8421
+fDstHostSameSrcPortRate = 35.4211
+fDstHostSrvDiffHostRate = 48.2105
+fDstHostSrvSerrorRate = 1.52632
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 14
+dos = 0
+probe = 5
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.4.2.1
+------------------ Center Information -----------------
+fSrcBytes = 0.939394
+fDestBytes = 6.33333
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 21.697
+fSrvCount = 6.21212
+fRerrorRate = 0
+fSameSrvRate = 29.1818
+fDiffSrvRate = 17.4848
+fDstHostSrvCount = 11.7273
+fDstHostSameSrvRate = 4.90909
+fDstHostDiffSrvRate = 68.9394
+fDstHostSameSrcPortRate = 30.1818
+fDstHostSrvDiffHostRate = 0.121212
+fDstHostSrvSerrorRate = 0.484848
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 1
+probe = 32
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.4.2.2
+------------------ Center Information -----------------
+fSrcBytes = 1.50877
+fDestBytes = 0
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 18.807
+fSrvCount = 5.57895
+fRerrorRate = 0
+fSameSrvRate = 35.6842
+fDiffSrvRate = 21
+fDstHostSrvCount = 13.3333
+fDstHostSameSrvRate = 5.4386
+fDstHostDiffSrvRate = 27.2281
+fDstHostSameSrcPortRate = 90.1754
+fDstHostSrvDiffHostRate = 0
+fDstHostSrvSerrorRate = 0
+iLabel = 2
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 0
+dos = 0
+probe = 56
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.4.4.4.4.3.4.2.3
+------------------ Center Information -----------------
+fSrcBytes = 20.9114
+fDestBytes = 3.58228
+fFailedLogins = 0
+fNumofRoot = 0.0126582
+fCount = 12.3038
+fSrvCount = 12.1646
+fRerrorRate = 0
+fSameSrvRate = 98.8987
+fDiffSrvRate = 0.873418
+fDstHostSrvCount = 13.8734
+fDstHostSameSrvRate = 6.72152
+fDstHostDiffSrvRate = 72.7848
+fDstHostSameSrcPortRate = 13.4304
+fDstHostSrvDiffHostRate = 0.265823
+fDstHostSrvSerrorRate = 0
+iLabel = 1
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 20
+dos = 39
+probe = 20
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.3.4.3
+------------------ Center Information -----------------
+fSrcBytes = 29.2692
+fDestBytes = 22.8
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 2.65385
+fSrvCount = 4.49231
+fRerrorRate = 0
+fSameSrvRate = 96.7462
+fDiffSrvRate = 2.17692
+fDstHostSrvCount = 27.1615
+fDstHostSameSrvRate = 91.7462
+fDstHostDiffSrvRate = 5.55385
+fDstHostSameSrcPortRate = 9.8
+fDstHostSrvDiffHostRate = 0.138462
+fDstHostSrvSerrorRate = 1.23846
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 128
+dos = 1
+probe = 0
+u2r = 0
+r2l = 1
+============================================================
+Cluster 0.4.4.4.4.3.4.4
+------------------ Center Information -----------------
+fSrcBytes = 30.7488
+fDestBytes = 14.4831
+fFailedLogins = 0
+fNumofRoot = 0.00483092
+fCount = 5.29469
+fSrvCount = 1.9372
+fRerrorRate = 0.724638
+fSameSrvRate = 39.1353
+fDiffSrvRate = 77.9469
+fDstHostSrvCount = 12.285
+fDstHostSameSrvRate = 7.68116
+fDstHostDiffSrvRate = 8.44928
+fDstHostSameSrcPortRate = 11.3623
+fDstHostSrvDiffHostRate = 5.65217
+fDstHostSrvSerrorRate = 0.057971
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 192
+dos = 1
+probe = 14
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.4
+------------------ Center Information -----------------
+fSrcBytes = 177.182
+fDestBytes = 63.3577
+fFailedLogins = 0
+fNumofRoot = 0.0340817
+fCount = 1.94212
+fSrvCount = 1.48877
+fRerrorRate = 0.00676224
+fSameSrvRate = 88.1237
+fDiffSrvRate = 13.629
+fDstHostSrvCount = 11.4506
+fDstHostSameSrvRate = 11.8608
+fDstHostDiffSrvRate = 56.3054
+fDstHostSameSrcPortRate = 82.7393
+fDstHostSrvDiffHostRate = 1.47714
+fDstHostSrvSerrorRate = 0.0550446
+iLabel = 0
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 6797
+dos = 0
+probe = 16
+u2r = 0
+r2l = 581
+============================================================
+Cluster 0.4.4.4.4.4.0
+------------------ Center Information -----------------
+fSrcBytes = 166.303
+fDestBytes = 0.116279
+fFailedLogins = 0
+fNumofRoot = 0.0490394
+fCount = 2.6092
+fSrvCount = 1.85541
+fRerrorRate = 0.0252781
+fSameSrvRate = 76.6279
+fDiffSrvRate = 29.9029
+fDstHostSrvCount = 18.1769
+fDstHostSameSrvRate = 8.68756
+fDstHostDiffSrvRate = 40.4717
+fDstHostSameSrcPortRate = 60.043
+fDstHostSrvDiffHostRate = 0.5273
+fDstHostSrvSerrorRate = 0.0960566
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 1960
+dos = 0
+probe = 16
+u2r = 0
+r2l = 2
+============================================================
+Cluster 0.4.4.4.4.4.1
+------------------ Center Information -----------------
+fSrcBytes = 146.47
+fDestBytes = 105.471
+fFailedLogins = 0
+fNumofRoot = 0
+fCount = 1.62641
+fSrvCount = 1.22713
+fRerrorRate = 0
+fSameSrvRate = 90.7977
+fDiffSrvRate = 9.08405
+fDstHostSrvCount = 1.54169
+fDstHostSameSrvRate = 0.660433
+fDstHostDiffSrvRate = 74.7386
+fDstHostSameSrcPortRate = 95.811
+fDstHostSrvDiffHostRate = 0.0333484
+fDstHostSrvSerrorRate = 0
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 4438
+dos = 0
+probe = 0
+u2r = 0
+r2l = 0
+============================================================
+Cluster 0.4.4.4.4.4.2
+------------------ Center Information -----------------
+fSrcBytes = 338.552
+fDestBytes = 0.160532
+fFailedLogins = 0
+fNumofRoot = 0.158487
+fCount = 2.02556
+fSrvCount = 1.93456
+fRerrorRate = 0
+fSameSrvRate = 99.2403
+fDiffSrvRate = 1.33947
+fDstHostSrvCount = 42.8119
+fDstHostSameSrvRate = 69.1043
+fDstHostDiffSrvRate = 4.682
+fDstHostSameSrcPortRate = 69.3252
+fDstHostSrvDiffHostRate = 9.9499
+fDstHostSrvSerrorRate = 0.221881
+iLabel = 4
+IsClusterOK = 0
+IsLeaf = 0
+---------------------- Label Number ---------------------
+normal = 399
+dos = 0
+probe = 0
+u2r = 0
+r2l = 579
+============================================================
+Cluster 0.4.4.4.4.4.2.0
+------------------ Center Information -----------------
+fSrcBytes = 351.797
+fDestBytes = 0.00235849
+fFailedLogins = 0
+fNumofRoot = 0.351415
+fCount = 2.71462
+fSrvCount = 2.47642
+fRerrorRate = 0
+fSameSrvRate = 98.3656
+fDiffSrvRate = 2.85377
+fDstHostSrvCount = 65.7382
+fDstHostSameSrvRate = 30.5401
+fDstHostDiffSrvRate = 9.3184
+fDstHostSameSrcPortRate = 30.6981
+fDstHostSrvDiffHostRate = 2.58491
+fDstHostSrvSerrorRate = 0.283019
+iLabel = 0
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 384
+dos = 0
+probe = 0
+u2r = 0
+r2l = 40
+============================================================
+Cluster 0.4.4.4.4.4.2.1
+------------------ Center Information -----------------
+fSrcBytes = 328.415
+fDestBytes = 0.281588
+fFailedLogins = 0
+fNumofRoot = 0.0108303
+fCount = 1.49819
+fSrvCount = 1.51986
+fRerrorRate = 0
+fSameSrvRate = 99.9097
+fDiffSrvRate = 0.180505
+fDstHostSrvCount = 25.2653
+fDstHostSameSrvRate = 98.6191
+fDstHostDiffSrvRate = 1.13357
+fDstHostSameSrcPortRate = 98.8881
+fDstHostSrvDiffHostRate = 15.5866
+fDstHostSrvSerrorRate = 0.17509
+iLabel = 4
+IsClusterOK = 1
+IsLeaf = 1
+---------------------- Label Number ---------------------
+normal = 15
+dos = 0
+probe = 0
+u2r = 0
+r2l = 539
+============================================================
+Printing ClusterTree in Log finished !
+************* Start classify the test records **************
+Start reading records from test file!
+311029 Records have read from test file!
+*****************************************************************
+Start classifying test records ... 
+10000 records have been done ...
+20000 records have been done ...
+30000 records have been done ...
+40000 records have been done ...
+50000 records have been done ...
+60000 records have been done ...
+70000 records have been done ...
+80000 records have been done ...
+90000 records have been done ...
+100000 records have been done ...
+110000 records have been done ...
+120000 records have been done ...
+130000 records have been done ...
+140000 records have been done ...
+150000 records have been done ...
+160000 records have been done ...
+170000 records have been done ...
+180000 records have been done ...
+190000 records have been done ...
+200000 records have been done ...
+210000 records have been done ...
+220000 records have been done ...
+230000 records have been done ...
+240000 records have been done ...
+250000 records have been done ...
+260000 records have been done ...
+270000 records have been done ...
+280000 records have been done ...
+290000 records have been done ...
+300000 records have been done ...
+310000 records have been done ...
+****** The process of classifying test records  finished ! ******

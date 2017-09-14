@@ -1,0 +1,1 @@
+cmd_/home/yangkai/Code/92/extend/HoneyPot.ko := ld -m elf_i386 -m elf_i386 -r -o /home/yangkai/Code/92/extend/HoneyPot.ko /home/yangkai/Code/92/extend/HoneyPot.o /home/yangkai/Code/92/extend/HoneyPot.mod.o

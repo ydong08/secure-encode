@@ -1,0 +1,254 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Protocolanalysis - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Protocolanalysis.res" /d "_DEBUG" "E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\Protocolanalysis.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE.tmp" with contents
+[
+/nologo /MT /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\arpprotocol.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\DeviceDialog.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\ethernetprotocol.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\filterdlg.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\helpdialog.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\icmpprotocol.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\ipprotocol.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\ParameterDlg.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\Protocolanalysis.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\ProtocolanalysisDlg.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\sniffer.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\tcpprotocol.cpp"
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\udpprotocol.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF.tmp" with contents
+[
+/nologo /MT /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/Protocolanalysis.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\Protocolanalysis\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP10.tmp" with contents
+[
+wpcap.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Protocolanalysis.pdb" /debug /machine:I386 /out:"Debug/Protocolanalysis.exe" /pdbtype:sept 
+".\Debug\arpprotocol.obj"
+".\Debug\DeviceDialog.obj"
+".\Debug\ethernetprotocol.obj"
+".\Debug\filterdlg.obj"
+".\Debug\helpdialog.obj"
+".\Debug\icmpprotocol.obj"
+".\Debug\ipprotocol.obj"
+".\Debug\ParameterDlg.obj"
+".\Debug\Protocolanalysis.obj"
+".\Debug\ProtocolanalysisDlg.obj"
+".\Debug\sniffer.obj"
+".\Debug\StdAfx.obj"
+".\Debug\tcpprotocol.obj"
+".\Debug\udpprotocol.obj"
+".\Debug\Protocolanalysis.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP10.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+Compiling...
+arpprotocol.cpp
+DeviceDialog.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+ethernetprotocol.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+filterdlg.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+helpdialog.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+icmpprotocol.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+ipprotocol.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+ParameterDlg.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+e:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\protocolanalysis\parameterdlg.cpp(50) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+e:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\protocolanalysis\parameterdlg.cpp(51) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+Protocolanalysis.cpp
+ProtocolanalysisDlg.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+sniffer.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+e:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\protocolanalysis\sniffer.cpp(76) : warning C4018: '>' : signed/unsigned mismatch
+e:\刘文涛\网络安全编程技术与实例\《网络安全编程技术与实例》源代码\第4章\4.8.3\protocolanalysis\sniffer.cpp(81) : warning C4018: '<' : signed/unsigned mismatch
+tcpprotocol.cpp
+udpprotocol.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+Generating Code...
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+Linking...
+LINK : warning LNK4098: defaultlib "LIBCMT" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+Protocolanalysis.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
